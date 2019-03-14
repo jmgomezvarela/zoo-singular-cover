@@ -66,9 +66,12 @@ I used Maven, for this reason to run the test is a mandatory tool.
 1. Clone or Download the repo
 2. Navigate to the root folder of the repo
 3. Using a terminal run the command (or any IDE configuration): **mvn package exec:java -D"exec.mainClass=com.es.singular.cover.zoo.use.ZooUseMain"**
- 
+
+![alt text](https://github.com/jmgomezvarela/zoo-singular-cover/blob/master/src/resources/menuExample.png)
+
+
 ### Steps to run the tests and get the test coverage report:
 
 1. Navigate to the root folder of the repo
 2. Using a terminal run the command (or any IDE configuration): **mvn clean test**
-3. The reports will be generated in bikes-rental-intive/target/site/jacoco-unittest/index.html
+3. The reports will be generated in zoo-singular-cover/target/site/jacoco-unittest/index.html
