@@ -67,6 +67,8 @@ I used Maven, for this reason to run the test is a mandatory tool.
 2. Navigate to the root folder of the repo
 3. Using a terminal run the command (or any IDE configuration): **mvn package exec:java -D"exec.mainClass=com.es.singular.cover.zoo.use.ZooUseMain"**
 
+The Main menu will show up:
+
 ![alt text](https://github.com/jmgomezvarela/zoo-singular-cover/blob/master/src/resources/menuExample.png)
 
 
