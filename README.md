@@ -52,7 +52,7 @@ To have only one instance of the class Util in the whole project.
 * Strategy
 
 ```
-To apply the discount in case the context indicates the conditions goes to add a new animal friend or break the friendship. If tomorrow the rules in the zoo change the impact of the change will be minimal for the project and easy to change the app behavior. The Single 
+To apply the relationship change in case the context indicates the conditions goes to add a new animal friend or break the friendship. If tomorrow the rules in the zoo change the impact of the change will be minimal for the project and easy to change the app behavior. The Single 
 responsibility principle and the open/closed principle are guaranteed.
 ```
 
